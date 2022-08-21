@@ -2,15 +2,22 @@
 
 ## Who am I?
 
-I am a developer in Finance and a musician at heart.
+Hi! My name is Alo Ariza. I'm a developer (and a musician at heart!).
+At the moment I live in Frankfurt and I work as a devloper in Finance using Java as my main programming language. I have also experience in the supply chain and construction industries. In which I primarly used python for data maniuplation.
 
-I started my developer career working in business working with python and pandas, and then switching to the development section. I work currently in Java. 
+Currently I'm taking the MitxPro MERN course for web development.
+
+I love to code, and build things that can help other people be
+more productive or let them have fun.
 
 ---
 
 ## What is this repo about?
 
-I started this repo while being enrolled in the MITxPRO [Full Stack Development with MERN](https://xpro.mit.edu/programs/program-v1:xPRO+PCCx+R1). It's purpose is to show the work created in this course.
+This repo contains links to my personal accounts like LinkedIn and to other repos where you can see the projects that I can do.
+
+COPYRIGHT
+
+Each repo contains its specific copyright. The design of this repo was taken from this YouTube tutorial: https://www.youtube.com/watch?v=1v_XcJsGtyA
 
 ---
-
