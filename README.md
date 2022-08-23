@@ -12,6 +12,12 @@ more productive or let them have fun.
 
 ---
 
+## How to use this repo
+
+Just fork the repo and execute it in a server in your local computer. All the files needed for it to run are included in it.
+
+---
+
 ## What is this repo about?
 
 This repo contains links to my personal accounts like LinkedIn and to other repos where you can see the projects that I can do.
