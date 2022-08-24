@@ -54,3 +54,10 @@ body {
 .links-repo a:visited {
   color: #fff;
 }
+
+.links-repo a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
